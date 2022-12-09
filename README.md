@@ -57,7 +57,7 @@ At first, I wanted to use a tiny servo to drive the turntable. However, after te
 
 <img width="511" alt="image" src="https://user-images.githubusercontent.com/76156342/206602477-627c0016-77e8-46ad-984f-bf6ce0a94509.png">
 
-So, I decided to use a toy motor to drive the turntable.But using a toy motor also requires a driver, so I learned to use L289N.
+So, I decided to use a toy motor to drive the turntable.But using a toy motor also requires a driver, so I learned to use L298N.
 
 <img width="596" alt="image" src="https://user-images.githubusercontent.com/76156342/206602571-9a0682b9-18e9-4fca-acc9-6a0701817cd0.png">
 
