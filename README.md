@@ -2,6 +2,11 @@
 ## Final Project weekly diary
 “Xianbei” weekly diary
 
+Author: Xiao Liang
+
+Student ID: 22010608
+
+
 ## Week 6 
 This week I determined the theme I want to do and the macro realistic way.
 My work is called "Xianbei". 
