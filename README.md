@@ -17,15 +17,15 @@ One day, I saw a gif of a cat. I think, if you want the cat to move smoothly, ma
 
 I thought that I could make a turntable, draw a few coherent movements of cats, and use the motor to drive the turntable to make the animation move.
 
-这里缺张图
+<img width="746" alt="image" src="https://user-images.githubusercontent.com/76156342/206614047-2e58ddd4-46bd-4c68-937b-b8c59d848f48.png">
 
 What kind of trigger is used to turn it?I wanted to do an animation of cats playing, so it occurred to me that I could use a cat toy to trigger the rotation of the mechanism.That is, when the user picks up the cat toy to play with the cat, the device starts to rotate, and the user can see the kitten playing all the time.
 
-这里缺张图
+<img width="764" alt="image" src="https://user-images.githubusercontent.com/76156342/206614018-79aca9a7-422b-4482-8390-f2af543988b4.png">
 
 At the same time, I think I can add a cat's meow.When the user passes by the device, the Xianbei will make a sound to attract the user's attention.After users are attracted, they will naturally pick up cat toys and play with Xianbei.
 
-这里缺张图
+<img width="646" alt="image" src="https://user-images.githubusercontent.com/76156342/206613950-b74a127b-1f7c-49d2-857e-97074764aba0.png">
 
 I determined my two inputs and two outputs this week.One is a pressure sensor and motor, and the other is an ultrasonic sensor and audio playback.
 
