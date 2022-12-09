@@ -79,7 +79,7 @@ And the test is successful.
 
 The other part, the part that controls the sound playback through the ultrasonic sensor, also completes the circuit diagram and code.
 
-I extracted the sound of senbei from the video, put it into the SD card, and read it through DFPlayer mini. When the user gets close to the device, the senbei can be heard.
+I extracted the sound of Xianbei from the video, put it into the SD card, and read it through DFPlayer mini. When the user gets close to the device, the senbei can be heard.
 
 <img width="847" alt="image" src="https://user-images.githubusercontent.com/76156342/206602906-d18adbf8-6ea5-4816-aa4b-4b87ef260f6c.png">
 
@@ -122,7 +122,7 @@ Finally, finish the work and shoot the video.
 
 <img width="675" alt="image" src="https://user-images.githubusercontent.com/76156342/206603612-6b8aca3a-2a0d-48dd-8ae8-1505a0060685.png">
 
-When the user gets close, they can hear the sound of senbei. Users can pick up the cat toy and watch the animation of senbei playing.
+When the user gets close, they can hear the sound of Xianbei. Users can pick up the cat toy and watch the animation of Xianbei playing.
 
 <img width="672" alt="image" src="https://user-images.githubusercontent.com/76156342/206603653-6dfa1542-0bbb-4534-b5dc-13cea76f1bd6.png">
 
