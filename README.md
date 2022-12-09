@@ -6,6 +6,8 @@ Author: Xiao Liang
 
 Student ID: 22010608
 
+Video link：https://youtu.be/fx_ztDrIUsc
+
 
 ## Week 6 
 This week I determined the theme I want to do and the macro realistic way.
