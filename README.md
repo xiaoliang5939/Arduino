@@ -35,6 +35,8 @@ This week, I drew an animation of the cat based on the appearance of the Xianbei
 
 <img width="956" alt="image" src="https://user-images.githubusercontent.com/76156342/206602236-cb6f9e6e-be49-443d-8847-e85131c0dc4c.png">
 
+![未命名作品 2](https://user-images.githubusercontent.com/76156342/206604418-67f5b79c-e8a3-402f-b62c-6f854ad6beee.gif)
+
 <img width="516" alt="image" src="https://user-images.githubusercontent.com/76156342/206602277-9ec2d118-5703-4078-865f-b856632162ea.png">
 
 Since I found that the pattern drawn on the acrylic plate is not very obvious, I thought to add a light to the previous turntable. That is to say, through pressure induction, not only to start the motor, but also to light up the LED lights.
