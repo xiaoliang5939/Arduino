@@ -1,7 +1,7 @@
 # Arduino
 ## Final Project
 “Xianbei”
-##week 6 
+## Week 6 
 This week I determined the theme I want to do and the macro realistic way.
 My work is called "Xianbei". 
 
