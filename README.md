@@ -110,6 +110,11 @@ I used AI to make a base box to place the ultrasonic and horn and wiring.
 
 <img width="581" alt="image" src="https://user-images.githubusercontent.com/76156342/206603235-58d0e593-76e9-49ec-a3d2-2783d8514275.png">
 
+Solder all the wires
+
+<img width="545" alt="image" src="https://user-images.githubusercontent.com/76156342/206757170-9455d05c-a2d2-4ae0-893d-5d94625f3810.png">
+
+
 I placed the wiring in the box and assembled the turntable.
 
 <img width="658" alt="image" src="https://user-images.githubusercontent.com/76156342/206603301-1f32b7b3-6c12-4717-840c-bf18d09bbd50.png">
